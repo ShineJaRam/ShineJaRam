@@ -4,7 +4,7 @@
 
 
 
-### Hi there 👋
+### 더 나은 매일을 꿈꾸는 개발자입니다.
 
 <!--
 **ShineJaRam/ShineJaRam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
